@@ -1,4 +1,10 @@
-# netflix-cloned
+# Netflix-cloned by Shahriar Ahmed
+
+
+Visit this page: 
+
+https://ahmed-shahriar04.github.io/netflix-cloned/
+
 Hi! I'm Shahriar Ahmed Riaz, I've cloned the netflix homepage.
 
 ![ss1](https://github.com/user-attachments/assets/af724a9d-7e30-4693-8401-cc90565c31a9)
